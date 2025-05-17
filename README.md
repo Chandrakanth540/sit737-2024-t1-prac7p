@@ -162,7 +162,8 @@ kubectl logs <pod-name>
 curl http://<minikube-ip>:<node-port>/users
 ```
 
-##author #chandrakanth
+## author # chandrakanth
+
 ---
 
 
